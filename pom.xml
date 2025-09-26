@@ -28,8 +28,6 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<argLine>--add-opens java.base/java.lang=ALL-UNNAMED --enable-native-access=ALL-UNNAMED</argLine>
-		<maven.test.skip>true</maven.test.skip>
 	</properties>
 	<dependencies>
 		<dependency>
